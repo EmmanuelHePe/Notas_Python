@@ -16,11 +16,13 @@ print(Hola)
 
 palabra = "Ayuda" + "B"
 print(palabra*2)
-print(palabra[2:5])
+print(palabra[2:5])a
 x = len(palabra)
+print("Hola")
+
 
 ###     listas       ############################################3
 #   Variable para guardar datos compuestos
 
 a = ["pan","huevos", 100, 1024] #Diferentes tipos de datos
-print(a) 
+print(a)
